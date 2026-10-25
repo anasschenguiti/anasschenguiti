@@ -21,6 +21,15 @@ I care about clean architecture, code quality, automation, and continuous learni
 
 ## 🛠️ Tech Stack
 
+### Core Expertise
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud"/>
+  <img src="https://img.shields.io/badge/JEE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JEE"/>
+  <img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps"/>
+</p>
+
 ### Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>
@@ -35,7 +44,7 @@ I care about clean architecture, code quality, automation, and continuous learni
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="45" height="45"/>
 </p>
 
-### Backend & Microservices (Spring Boot · Spring Cloud)
+### Backend & Microservices (Spring Boot · Spring Cloud · JEE)
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot / Spring Cloud" title="Spring Boot / Spring Cloud" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45"/>
