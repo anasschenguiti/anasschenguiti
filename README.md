@@ -43,7 +43,7 @@ I care about clean architecture, code quality, automation, and continuous learni
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" title="Django" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="​.NET" title="​.NET" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="45" height="45"/>
 </p>
 
 ### Frontend & Mobile
@@ -111,15 +111,6 @@ I care about clean architecture, code quality, automation, and continuous learni
 | **Intelligent Commercial Sales Agent** | AI-powered sales agent system with backend services, a web frontend, and an AI orchestration layer. Includes full UML and architecture design. | Python, AI orchestration, REST APIs |
 | **Cabinet Médical (Odoo 19 module)** | Custom ERP module for medical practice management, deployed with Docker. | Odoo, Python, PostgreSQL, Docker |
 | **Big Data with Hadoop MapReduce** | Distributed data processing on an HDFS + YARN cluster running in Docker. | Hadoop, Java, Maven, Docker |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anasschenguiti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasschenguiti&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
 
 ---
 
